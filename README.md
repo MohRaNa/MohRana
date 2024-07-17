@@ -1,8 +1,8 @@
 ### MohRana
 
-Hi, my name is Mohamed Ramos and I'm a full-stack web devoloper JR. I like to learn more about the new technologies and improve in my actual skills. I'm interested in learning and becoming a Data Analyst.
+Hi, my name is Mohamed Ramos and I'm a Junior Full-Stack Web Devoloper . I enjoy learning about new technologies and continously improving my current skills. My primary interests lie in web development and data analyst, and I aspire to become a Data Analyst in the near future
 
-At the moment I'm studying engineer in computer science in the "Instituto Tecnologico y de Estudios Superiores de Monterrey".
+I'm currently pursuing a degree in Computer Science at the Instituto Tecnologico y de Estudios Superiores de Monterrey. My coursework and projects have provided me with a solid foundation in programming, algorithms, and database management.
 
 #### Skills
 
