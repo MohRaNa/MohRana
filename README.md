@@ -1,8 +1,8 @@
-<img src="./assets/wallpaper/wallpaper.png" style="max-height: 100px; width: 100%; object-fit: cover;" 
-         alt="Banner">
+<!-- <img src="./assets/wallpaper/wallpaper.png" style="max-height: 100px; width: 100%; object-fit: cover;" 
+         alt="Banner"> -->
 
 <div align="center">
-<h1>Hi, I'm Mohamed Ramos</h1>
+<h1>Hi, I'm Mohamed Ramos 👋</h1>
 </div>
 
 <picture> 
