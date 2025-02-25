@@ -6,7 +6,7 @@
 </div>
 
 <picture> 
-<img src="./assets/gif/code.gif" width="210px" height="" style="margin-left: 15px;" align="right">
+<img src="./assets/gif/code.gif" width="190px" height="" style="margin-left: 15px;" align="right">
 </picture>
 
 <pre>
@@ -16,7 +16,6 @@
 🗣 Bilingual in <strong>Spanish </strong> (native) and <strong>English</strong>
 🚀 Open to new <strong>job opportunities</strong>.
 📄 Check out my <a href="./resume/CV MRN English.pdf">resume</a>
-
 </pre>
 
 ##  🛠️ Skills
