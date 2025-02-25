@@ -22,18 +22,23 @@
 ##  🛠️ Skills
 
 ###  💻 Programming languages: 
+<div>
   <img src="./assets/Languages/python.png" alt="Alt text" width="40" height="40">
   <img src="./assets/Languages/javascript.png" alt="Alt text" width="40" height="40">
   <img src="./assets/Languages/java.png" alt="Alt text" width="40" height="40">
+</div>
 
 ### ⚙️  Framework : 
+<div>
  <img src="./assets/Frameworks/django.png" alt="Alt text" width="40" height="40">
 <img src="./assets/Frameworks/react.png" alt="Alt text" width="40" height="40">
 <img src="./assets/Frameworks/bootstrap.png" alt="Alt text" width="40" height="40"> 
+</div>
 
 ### 🖥️ Technologies :  
+<div>
   <img src="./assets/Technologies/git.png" alt="Alt text" width="40" height="40">
   <img src="./assets/Technologies/postgresql.png" alt="Alt text" width="40" height="40">
   <img src="./assets/Technologies/mongodb.png" alt="Alt text" width="40" height="40">
   <img src="./assets/Technologies/docker.png" alt="Alt text" width="40" height="40">
-
+</div>
