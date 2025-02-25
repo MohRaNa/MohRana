@@ -6,16 +6,17 @@
 </div>
 
 <picture> 
-<img src="./assets/gif/code.gif" width="140px" height="" style="margin-left: 15px;" align="right">
+<img src="./assets/gif/code.gif" width="150px" height="" style="margin-left: 15px;" align="right">
 </picture>
 
 <pre>
-🎓 Graduated in Computer Science at <a href="https://tec.mx/en">Tecnologico de Monterrey</a>
-💻 I'm a Junior <strong>Full-Stack Web Developer</strong>
-🧠 Always <strong>learning </strong>learning and <strong>improving</strong> skills
-🗣 Bilingual in <strong>Spanish </strong>(native) and <strong>English</strong>
+🎓 Graduated in Computer Science at <a href="https://tec.mx/en">Tecnologico de Monterrey</a>.
+💻 I'm a Junior <strong>Full-Stack Web Developer</strong>.
+⌨️ Skilled in <strong>Python</strong> and <strong>JavaScript</strong>.
+🧠 Always <strong>learning </strong>learning and <strong>improving</strong> skills.
+🗣 Bilingual in <strong>Spanish </strong>(native) and <strong>English</strong>.
 🚀 Open to new <strong>job opportunities</strong>.
-📄 Check out my <a href="./resume/CV MRN English.pdf">resume</a>
+📄 Check out my <a href="./resume/CV MRN English.pdf">resume</a>.
 </pre>
 
 ##  🛠️ Skills
