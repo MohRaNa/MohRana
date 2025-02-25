@@ -1,11 +1,39 @@
-### MohRana
+<img src="./assets/wallpaper/wallpaper.png" style="max-height: 200px; width: 100%; object-fit: cover;" 
+         alt="Banner">
 
-Hi, my name is Mohamed Ramos and I'm a Junior Full-Stack Web Devoloper. I enjoy learning about new technologies and continously improving my current skills. My primary interests lie in web development and data analyst, and I aspire to become a Data Analyst in the near future.
+<div align="center">
+<h1>Hi, I'm Mohamed Ramos</h1>
+</div>
 
-I'm currently pursuing a degree in Computer Science at the Instituto Tecnologico y de Estudios Superiores de Monterrey. My coursework and projects have provided me with a solid foundation in programming, algorithms, and database management.
+<picture> 
+<img src="./assets/gif/code.gif" width="210px" height="" style="margin-left: 15px;" align="right">
+</picture>
 
-#### Skills
+<pre>
+🎓 Graduated in Computer Science at <a href="https://tec.mx/en">Tecnologico de Monterrey</a>
+💻 I'm a Junior <strong>Full-Stack Web Developer</strong>
+🧠 Always <strong>learning </strong>learning and <strong>improving</strong> skills
+🗣 Bilingual in M<strong>Spanish </strong> (native) and <strong>English</strong>
+🚀 Open to new <strong>job opportunities</strong>.
+📄 Check out my <a href="./resume/CV MRN English.pdf">resume</a>
 
-- Programming languages: Javascript, Python, C++, Java, JQuery, HTML / CSS, SQL
-- Framework : Django, Bootstrap, React
-- Technologies : Git, Github, Bitbucket, Sourcetree, Node.js, Postman, MongoDB, PostreSQL
+</pre>
+
+##  🛠️ Skills
+
+###  💻 Programming languages: 
+  <img src="./assets/Languages/python.png" alt="Alt text" width="40" height="40">
+  <img src="./assets/Languages/javascript.png" alt="Alt text" width="40" height="40">
+  <img src="./assets/Languages/java.png" alt="Alt text" width="40" height="40">
+
+### ⚙️  Framework : 
+ <img src="./assets/Frameworks/django.png" alt="Alt text" width="40" height="40">
+<img src="./assets/Frameworks/react.png" alt="Alt text" width="40" height="40">
+<img src="./assets/Frameworks/bootstrap.png" alt="Alt text" width="40" height="40"> 
+
+### 🖥️ Technologies :  
+  <img src="./assets/Technologies/git.png" alt="Alt text" width="40" height="40">
+  <img src="./assets/Technologies/postgresql.png" alt="Alt text" width="40" height="40">
+  <img src="./assets/Technologies/mongodb.png" alt="Alt text" width="40" height="40">
+  <img src="./assets/Technologies/docker.png" alt="Alt text" width="40" height="40">
+
