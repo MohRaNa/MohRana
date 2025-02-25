@@ -6,7 +6,7 @@
 </div>
 
 <picture> 
-<img src="./assets/gif/code.gif" width="190px" height="" style="margin-left: 15px;" align="right">
+<img src="./assets/gif/code.gif" width="150px" height="" style="margin-left: 15px;" align="right">
 </picture>
 
 <pre>
