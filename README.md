@@ -1,4 +1,4 @@
-<img src="./assets/wallpaper/wallpaper.png" style="max-height: 100px; width: 80%; object-fit: cover;" 
+<img src="./assets/wallpaper/wallpaper.png" style="max-height: 100px; width: 100%; object-fit: cover;" 
          alt="Banner">
 
 <div align="center">
