@@ -24,10 +24,10 @@
 ###  💻 Programming languages: 
 <div>
   <img src="./assets/Languages/python.png" alt="Alt text" width="40" height="40">
-  <img src="./assets/Languages/C.png" alt="Alt text" width="40" height="40">
+  <img src="./assets/Languages/c.png" alt="Alt text" width="40" height="40">
   <img src="./assets/Languages/javascript.png" alt="Alt text" width="40" height="40">
   <img src="./assets/Languages/java.png" alt="Alt text" width="40" height="40">
-  <img src="./assets/Languages/go.png" alt="Alt text" width="40" height="40">
+  <img src="./assets/Languages/go.png" alt="Alt text" width="90" height="40">
 </div>
 
 ### ⚙️  Framework : 
