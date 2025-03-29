@@ -23,11 +23,11 @@
 
 ###  💻 Programming languages: 
 <div  >
-  <img src="./assets/Languages/python.png" alt="Alt text" width="40" height="40" style="margin-right: 20">
-  <img src="./assets/Languages/c.png" alt="Alt text" width="40" height="40" style="margin-right: 20">
-  <img src="./assets/Languages/javascript.png" alt="Alt text" width="40" height="40" style="margin-right: 20" >
-  <img src="./assets/Languages/java.png" alt="Alt text" width="40" height="40" style="margin-right: 20">
-  <img src="./assets/Languages/go.png" alt="Alt text" width="100" height="40" style="margin-right: 20">
+  <img src="./assets/Languages/python.png" alt="Alt text" width="40" height="40" style="margin-right: 20px;">
+  <img src="./assets/Languages/c.png" alt="Alt text" width="40" height="40" style="margin-right: 20px;">
+  <img src="./assets/Languages/javascript.png" alt="Alt text" width="40" height="40" style="margin-right: 20px;" >
+  <img src="./assets/Languages/java.png" alt="Alt text" width="40" height="40" style="margin-right: 20px;">
+  <img src="./assets/Languages/go.png" alt="Alt text" width="100" height="40" style="margin-right: 20px;">
 </div>
 
 ### ⚙️  Framework : 
