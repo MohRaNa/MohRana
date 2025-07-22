@@ -16,7 +16,7 @@
 🧠 Always <strong>learning </strong>learning and <strong>improving</strong> skills.
 🗣 Bilingual in <strong>Spanish </strong>(native) and <strong>English</strong>.
 🚀 Open to new <strong>job opportunities</strong>.
-📄 Check out my <a href="./resume/CV MRN English.pdf">resume</a>.
+📄 Check out my <a href="./resume/Resume Mohamed Ramos.pdf">resume</a>.
 </pre>
 
 ##  🛠️ Skills
